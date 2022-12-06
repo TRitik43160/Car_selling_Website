@@ -1,12 +1,12 @@
 # Online car selling website
 # Table of contents
-1. General Info <br> 
+1.General Info <br> 
 2.Screenshot <br>
 3.Technologies <br>
 4.Installation <br>
 5.Features <br>
 
-# Genereal info:
+# General info:
 <br>
 A website promoting a car window wrapping business. The site is divided into the following sections: Home, Vehicles, Services ,Featured, ,Reviews,Contact us. The purpose of this website is to provide cars at best price possible with user friendly interface.
 
