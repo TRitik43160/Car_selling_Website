@@ -1,6 +1,6 @@
 # Online car selling website
 # Table of contents
-1. General Info
+1. General Info /n
 2.Screenshot
 3.Technologies
 4.Installation
