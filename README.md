@@ -1,10 +1,10 @@
 # Online car selling website
 # Table of contents
-1.[General Info] (General info)<br> 
-2.[Screenshot] <br>
-3.[Technologies] <br>
-4.[Installation] <br>
-5.[Features] <br>
+1.General Info<br> 
+2.Screenshot <br>
+3.Technologies <br>
+4.Installation <br>
+5.Features<br>
 
 ## General info:
 <br>
