@@ -7,7 +7,7 @@
 5.Features
 
 # Genereal info:
-A website promoting a car window wrapping business. The site is divided into the following sections: Home, Vehicles, Services ,Featured, Contact us. 
+A website promoting a car window wrapping business. The site is divided into the following sections: Home, Vehicles, Services ,Featured, ,Reviews,Contact us. The purpose of this website is to provide cars at best price possible with user friendly interface.
 
 # Screenshot:
  
@@ -25,24 +25,24 @@ A website promoting a car window wrapping business. The site is divided into the
 
 # Technologies:
 
-Html
-Css
-Javascript
-Node.js
-MySQL
+Html #
+Css #
+Javascript #
+Node.js #
+MySQL #
 
 # Installation
 
-$ use Xampp server to start the application
-$ the project is created using node.js ,js.html.css
-$ tool used Visual studio code ,Xampp 
-$ run the home.ejs file to run the application
+$ use Xampp server to start the application #
+$ the project is created using node.js ,js.html.css #
+$ tool used Visual studio code ,Xampp #
+$ run the home.ejs file to run the application #
 
 # Features:
 
-you can purchase car
-user can login/logout
-user can give review
-user can manage there product
-latest news
+you can purchase car #
+user can login/logout #
+user can give review #
+user can manage there product #
+latest news #
 
