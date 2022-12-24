@@ -41,9 +41,10 @@ MySQL <br>
 # Installation
 
 $ use Xampp server to start the application <br>
-$ the project is created using node.js ,js.html.css <br>
+$ the project is created using node.js ,js,html,css <br>
 $ tool used Visual studio code ,Xampp <br>
-$ run the home.ejs file to run the application <br>
+$ run the server.js file to run the application <br>
+$ open the browser run localhost:3000 to see the results<br>
 
 # Features:
 
